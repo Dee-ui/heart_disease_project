@@ -12,7 +12,6 @@ There is also a version of it available on Kaggle. [Kaggle version of data](http
 
 ## Table of Contents
 - [Setup](#setup)
-- [Usage](#usage)
 - [Data and Datasets](#data-and-datasets)
 - [Contributing](#contributing)
 - [License](#license)
